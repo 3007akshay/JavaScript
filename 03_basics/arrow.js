@@ -28,3 +28,8 @@ const addTwo = (n1 , n2) => {
 
  console.log(addTwo(3,4));
  
+
+ for (let i = 0; i < array.length; i++) {
+    const element = array[i];
+    
+ }
